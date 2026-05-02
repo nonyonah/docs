@@ -47,6 +47,8 @@
               "payments/payment-links",
               "payments/recurring-invoices",
               "payments/receiving-crypto",
+              "payments/bank-payouts",
+              "payments/mark-as-paid",
               "payments/offramp"
             ]
           },
@@ -71,6 +73,7 @@
             "group": "AI Assistant",
             "pages": [
               "ai/overview",
+              "assistant",
               "ai/email-intelligence"
             ]
           },
